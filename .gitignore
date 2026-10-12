@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Testing & caches
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Appium / test execution outputs
+*.xml
+*.png
+*.jpg
+*.mp4
+screenshots/
+reports/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
